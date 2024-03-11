@@ -14,10 +14,10 @@ export default [
       "l afhai  dfahfka fkahf iahfkha ffajhflkjah fkkahfkhakl fakhfi ahfhahf",
     icon: <FaHandHoldingHeart className="w-full h-full" />,
   },
-//   {
-//     title: "Web Design",
-//     description:
-//       "l afhai  dfahfka fkahf iahfkha ffajhflkjah fkkahfkhakl fakhfi ahfhahf",
-//     icon: <VsCode className="w-full h-full" />,
-//   },
+  {
+    title: "Web Design",
+    description:
+      "l afhai  dfahfka fkahf iahfkha ffajhflkjah fkkahfkhakl fakhfi ahfhahf",
+    icon: <FaHandHoldingHeart className="w-full h-full" />,
+  },
 ];
